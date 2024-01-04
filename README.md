@@ -49,4 +49,10 @@ Exploratory Data Analysis
 ![4](https://github.com/Xvedk/Parkinsons-Disease-Prediction/assets/124188416/dd4d7a2d-88c6-4727-aef8-55124288390c)
 
 
+**#Accuracy of the Model**
+
+
+![5](https://github.com/Xvedk/Parkinsons-Disease-Prediction/assets/124188416/3d123a0b-1ca9-498b-9a41-55a90a84c2ec)
+
+
 
