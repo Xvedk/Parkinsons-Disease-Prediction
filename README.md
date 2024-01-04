@@ -30,13 +30,22 @@ DFA - Signal fractal scaling exponent
 
 spread1 , spread2 , PPE - Three nonlinear measures of fundamental frequency variation
 
+Exploratory Data Analysis
+
 **#Counter-Plot**
+
 ![1](https://github.com/Xvedk/Parkinsons-Disease-Prediction/assets/124188416/2137b8b9-1034-4c0e-9703-2b3c5a27c425)
+
 **#Heat-Map**
+
 ![2](https://github.com/Xvedk/Parkinsons-Disease-Prediction/assets/124188416/91242bae-67d8-44e7-96e1-e86818dc5bfa)
+
 **#Pair_plot**
+
 ![3](https://github.com/Xvedk/Parkinsons-Disease-Prediction/assets/124188416/90f14aaa-cb9b-4cf4-8a26-dde4c86c8289)
+
 **#Pie-Chart**
+
 ![4](https://github.com/Xvedk/Parkinsons-Disease-Prediction/assets/124188416/dd4d7a2d-88c6-4727-aef8-55124288390c)
 
 
